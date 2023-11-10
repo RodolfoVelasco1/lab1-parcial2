@@ -1,0 +1,21 @@
+/*
+---CASOS DE PRUEBA---
+--- Caso No Mutante ---
+dna = [
+    "ATGCCA",
+    "CGTGGT",
+    "TCTATG",
+    "GAATTG",
+    "TCACAT",
+    "TGGTCA"]
+
+--- Caso Mutante ---
+dna = [
+    "ATGCCA",
+    "CGGGGT",
+    "TCTATG",
+    "TACTTG",
+    "TCACAT",
+    "TGGTCA"]
+
+ */
